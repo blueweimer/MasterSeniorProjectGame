@@ -1,2 +1,3 @@
-2024/02/03-20:24:11.893 3bec Creating DB H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/02/03-20:24:12.011 3bec Reusing MANIFEST H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/02/04-15:38:28.699 aa88 Reusing MANIFEST H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/02/04-15:38:28.731 aa88 Recovering log #3
+2024/02/04-15:38:28.735 aa88 Reusing old log H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 

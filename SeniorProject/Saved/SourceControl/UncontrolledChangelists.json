@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"H:/NewOrganization/MasterGameFolder/MasterGame/SeniorProject/SeniorProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
 			]
 		}
 	]
